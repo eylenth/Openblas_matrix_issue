@@ -9,8 +9,8 @@ The expected output is that the last line of the output, both in R and in Python
 ### foss/2016b
 
 ```
-[etsxn@by0q4n] openblas_bug $ module load R/3.4.1-X11-20160819 
-[etsxn@by0q4n] openblas_bug $ Rscript check.R
+$ module load R/3.4.1-X11-20160819 
+$ Rscript check.R
 R version 3.4.1 (2017-06-30)
 Platform: x86_64-pc-linux-gnu (64-bit)
 Running under: Red Hat Enterprise Linux Server 7.6 (Maipo)
